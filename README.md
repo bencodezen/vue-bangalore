@@ -22,7 +22,7 @@ What we would like to bring with this meetup:
 
 <PastEvents :limit="5" />
 
-[See all events](/events)
+[See all events](https://blr.vue.community/events.html)
 
 ## Get in touch
 
